@@ -2,6 +2,8 @@
 
 Learning to use Python to expand my horizon as far as network automation and engineering.
 
+I would like to learn how to version control projecs with git.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine
