@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-user_input = input("Please enter an IPv4 IP address:")
+
+user_input = input("Please enter an IPv4 IP address (now):")
 vendor_input = input("Please enter your vendor:")
 
 ## the line below creates a single string that is passed to print()
